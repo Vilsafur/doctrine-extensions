@@ -22,7 +22,7 @@ Table of Contents
 DQL Functions
 =============
 
-This library provide set of cross database doctrine DQL functions. Supported databases are MySQL and PostgreSQL.
+This library provide set of cross database doctrine DQL functions. Supported databases are MySQL, Sqlite and PostgreSQL.
 Available functions:
 
 * `DATE(expr)` - Extract the date part of a date or datetime expression
