@@ -1,6 +1,6 @@
 <?php
 
-namespace Oro\ORM\Query\AST\Platform\Functions\Mysql;
+namespace Oro\ORM\Query\AST\Platform\Functions\Sqlite;
 
 use Doctrine\ORM\Query\AST\Node;
 use Oro\ORM\Query\AST\Functions\String\GroupConcat as Base;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Oro\ORM\Query\AST\Platform\Functions\Mysql;
+namespace Oro\ORM\Query\AST\Platform\Functions\Sqlite;
 
 use Oro\ORM\Query\AST\Functions\SimpleFunction;
 use Oro\ORM\Query\AST\Platform\Functions\PlatformFunctionNode;

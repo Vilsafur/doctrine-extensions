@@ -6,7 +6,7 @@
  * Time: 10.44.PD
  */
 
-namespace Oro\ORM\Query\AST\Platform\Functions\Mysql;
+namespace Oro\ORM\Query\AST\Platform\Functions\Sqlite;
 
 use Oro\ORM\Query\AST\Functions\Numeric\Round as BaseRound;
 use Oro\ORM\Query\AST\Platform\Functions\PlatformFunctionNode;
